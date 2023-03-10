@@ -1,0 +1,11 @@
+torch
+torchvision
+matplotlib
+numpy
+librosa
+inflect
+scipy
+Unidecode
+pillow
+tqdm
+configargparse
